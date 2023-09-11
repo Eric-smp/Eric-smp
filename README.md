@@ -1,7 +1,4 @@
-### OLÁ!!! me chamo Eric Sampaio
 
-- 🧑‍💻 Hoje trabalho como desenvolvedor front-end
-- 🎒 Estudando TypeScript e React
 
 
   <div>
