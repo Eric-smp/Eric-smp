@@ -2,8 +2,9 @@
 
 
 
-- 🧑‍💻 Hoje trabalho como desenvolvedor front-end
-- 🎒 Estudando TypeScript e React
+- 🧑‍💻 Trabalho como Desenvolvedor Web Jr.
+- 🎒 5º Semestre de Analise e Desenvolvimento de Sistema
+  
 
 
 
